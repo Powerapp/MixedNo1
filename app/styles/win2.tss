@@ -1,0 +1,49 @@
+"#quizWin": {
+	backgroundColor:"#f7efd2",
+	orientationModes: [
+        Ti.UI.PORTRAIT
+    ] 
+	},
+	
+"#closeBtn": {
+	width:"50%",
+	height:"40dp",
+	top:"0dp",
+	bottom:"0dp",
+	left:"0dp",
+	backgroundColor:"#475c6c",
+
+},
+"#closeBtnLabel":{
+	width:"50dp",
+	height:"40dp",
+	text:"Meny",
+	left:'10dp',	
+	color:'#fff',
+	font:{fontSize:'12sp'},	
+
+},
+
+"#answersBtn":{
+	width:"50%",
+	height:"40dp",
+	top:"0dp",
+	bottom:"0dp",
+	right:"0dp",
+	backgroundColor:"#475c6c",
+
+},
+"#answersBtnLabel":{
+	width:"100dp",
+	height:"40dp",
+	right:'10dp',
+	text:'Visa svaren',
+	color:"#fff",
+	textAlign:'center',
+	font:{fontSize:'12sp'},	
+},
+"#quizViews": {
+	top:'40dp',
+	
+
+}

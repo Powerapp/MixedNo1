@@ -1,0 +1,84 @@
+".container": {
+	exitOnClose:true,
+	orientationModes: [
+        Ti.UI.PORTRAIT
+    ] 
+},
+
+"#howTo": {
+	width:"120dp",
+	height:"40dp",
+	right:'30dp',
+	bottom:"180dp",	
+	backgroundColor:"#475c6c",
+	borderRadius:8,	
+	
+},
+"#howToLabel":{
+	color:'#fff',
+	width:"120dp",
+	height:"40dp",
+	text:"Spelinfo",
+	textAlign:'center',
+	font:{fontSize:'14sp'}
+},
+"#mailTemplate": {
+	width:"120dp",
+	height:"40dp",
+	right:'30dp',
+	bottom:"130dp",	
+	backgroundColor:"#8a8583",
+	borderRadius:8,		
+	
+},
+"#mailTemplateLabel":{
+	color:'#fff',
+	width:"120dp",
+	height:"40dp",
+	text:'Maila frågemall',
+	textAlign:'center',
+	font:{fontSize:'14sp'}
+},
+"#mailAnswers": {
+	width:"120dp",
+	height:"40dp",
+	right:'30dp',
+	bottom:"80dp",	
+	backgroundColor:"#eed7a1",
+	borderRadius:8,	
+	
+},
+"#mailAnswersLabel":{
+	color:'#000',
+	width:"120dp",
+	height:"40dp",
+	text:'Maila svaren',
+	textAlign:'center',
+	font:{fontSize:'14sp'}
+},
+"#quiz": {
+	width:"120dp",
+	height:"40dp",
+	right:'30dp',
+	bottom:"30dp",
+	backgroundColor:"#A41D69",
+	borderRadius:8,		
+},
+"#quizLabel":{
+	color:'#fff',
+	width:"120dp",
+	height:"40dp",
+	text:'Quiz',
+	textAlign:'center',
+	font:{fontSize:'14sp'}
+},
+"#copyright":{
+	text:"Enligt avtal med STIM\nUtvecklare: PowerApp   QuizMadame: Ebba",
+	color:"#000",
+	width:"100%",
+	height:"auto",
+	bottom:"0dp",
+	textAlign:'center',
+	font:{fontSize:'10sp'}
+}
+

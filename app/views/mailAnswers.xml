@@ -1,0 +1,3 @@
+<Alloy>
+    <EmailDialog id="emailDialog" subject="Quiz Wiz svar" messageBody="Quizza lugnt!" />
+</Alloy>
